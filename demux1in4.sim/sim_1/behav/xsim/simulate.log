@@ -1,0 +1,10 @@
+Vivado Simulator 2017.4
+Time resolution is 1 ps
+The demux output is correct!!! d_in=0, a0_in = 0, a1_in = 0, y_out = 0000
+The demux output is correct!!! d_in=1, a0_in = 0, a1_in = 0, y_out = 0001
+The demux output is correct!!! d_in=0, a0_in = 1, a1_in = 0, y_out = 0000
+The demux output is correct!!! d_in=1, a0_in = 1, a1_in = 0, y_out = 0010
+The demux output is correct!!! d_in=0, a0_in = 0, a1_in = 1, y_out = 0000
+The demux output is correct!!! d_in=1, a0_in = 0, a1_in = 1, y_out = 0100
+The demux output is correct!!! d_in=0, a0_in = 1, a1_in = 1, y_out = 0000
+The demux output is correct!!! d_in=1, a0_in = 1, a1_in = 1, y_out = 1000
